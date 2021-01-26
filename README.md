@@ -1,6 +1,5 @@
 <p align = "right">
-  <img src="https://github-readme-stats.vercel.app/api?username=th1k&show_icons=true&theme=blueberry&count_private=true&hide=prs" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337&layout=compact&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api?username=th1k&show_icons=true&theme=blueberry&count_private=true&hide=prs" />
 </p>
 
 ### Greeting!!! 🙏

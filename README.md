@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=th1k&show_icons=true&theme=blueberry&count_private=true&hide=prs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=th1k&show_icons=true&theme=blueberry&count_private=true&hide=prs" /><br clear="right" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 ### Greeting!!! 🙏
 About Me? here ya go.

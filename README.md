@@ -7,8 +7,6 @@ About Me? here ya go.
 * <b>💁‍♂️ Interesting:</b> Deep Learning
 * <b>👽 Blog:</b> https://thiklab.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry" />
-
 > 😹 Fun fact **Security is just an Illusion.**
 
 <h3 align="left">Languages and Tools:</h3>

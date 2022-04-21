@@ -1,10 +1,14 @@
-### Greeting!!! 🙏
-About Me? here ya go.
-* <b>🔭 Working:</b> Penetration Tester
-* <b>💻 Coding:</b> Python3, Bash and Batch
-* <b>💁‍♂️ Interesting:</b> Deep Learning
-* <b>👽 Blog:</b> https://thiklab.com
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-> 😹 Fun fact **Security is just an Illusion.**
+```diff
+hi, im th1k 🔮.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=th1k&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+@@Cybersecurity researcher.@@
++ interesting in deep learning.
+- 27 years old
+! security research, pentesting and malware dev
+# 📖 reverse engineering, computer science
+```
+------
+[th1k](https://github.com/th1k)
+Last Edited on: 21/04/2022

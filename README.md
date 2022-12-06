@@ -6,7 +6,7 @@ hi, im th1k 🔮.
 @@Cybersecurity researcher.@@
 + interesting in deep learning.
 - 27 years old
-! security research, pentesting and malware dev
+! security researcher
 # 📖 reverse engineering, computer science
 ```
 ------

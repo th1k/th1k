@@ -4,13 +4,12 @@
 hi, im th1k 🔮.
 
 @@Cybersecurity researcher.@@
-+ interesting in deep learning.
-- 27 years old
++ interesting in malware reverse engineering.
 ! security researcher
-# 📖 reverse engineering, computer science
+# 📖 brainfuck, powershell, batch, cshell
 ```
 ------
 [th1k](https://github.com/th1k)
-Last Edited on: 21/04/2022
+Last Edited on: 02/06/2023
 
 <!--https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/jewdev.md-->

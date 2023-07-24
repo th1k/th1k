@@ -1,7 +1,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im th1k 🔮.
+hi, i'm th1k 🔮.
 
 @@Cybersecurity researcher.@@
 + interesting in malware reverse engineering.

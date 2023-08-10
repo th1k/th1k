@@ -3,13 +3,13 @@
 ```diff
 hi, i'm th1k 🔮.
 
-@@Cybersecurity researcher.@@
-+ interesting in malware reverse engineering.
-! security researcher
-# 📖 brainfuck, powershell, batch, cshell
+@@Cybersecurity Enthusiast@@
++ interesting in malware dev/ops/reverse
+! security blog/cti/soc
+# 📖 powershell, batch, cshell, csb nse
 ```
 ------
 [th1k](https://github.com/th1k)
-Last Edited on: 02/06/2023
+Last Edited on: 10/08/2023
 
 <!--https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/jewdev.md-->
